@@ -1,4 +1,3 @@
-
 ---
 title: "Taster/Knopf (Platine)"
 date: "2018-10-01T14:49:00.000Z"
