@@ -43,7 +43,7 @@ schau dir das Minimal-Beispiel an:
 // this should be overwritten!
 ```
 
-<!-- infolists -->
+<!-- infolist -->
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-Button/) [- Taster](http://wiki.seeedstudio.com/Grove-Button/)
