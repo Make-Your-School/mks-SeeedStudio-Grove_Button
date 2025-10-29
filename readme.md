@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Button.git
 repo_prefix: "mks"
 repo_part: "Grove_Button"
 embedded_example_file: "examples/Grove_Button_minimal/Grove_Button_minimal.ino"
-title: 'Taster/Knopf (Platine)'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
